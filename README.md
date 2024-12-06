@@ -67,6 +67,7 @@ AWS Backup and Storage Gateway
 	• Secondary Options: Veeam, Rubrik for backups, Azure Backup.
 
 Amazon FSx
+
 	• Concepts:
 		○ Windows File Server: Managed file storage for Windows applications.
 		○ Lustre: High-performance file system optimized for workloads like machine learning or big data analytics.
