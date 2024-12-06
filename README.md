@@ -53,4 +53,4 @@ Amazon FSx
 		○ Windows File Server: File storage for Windows-based applications.
 		○ Lustre: High-performance computing and analytics.
 	• Secondary Options: EFS, NetApp Cloud Volumes.
-![image](https://github.com/user-attachments/assets/ed52197f-6698-407e-afee-22c1516edff2)
+
